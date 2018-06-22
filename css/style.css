@@ -1,0 +1,14 @@
+.page-header{
+    text-align: center;
+}
+
+#canvas{
+    border-style: solid;
+    border-color:black;    
+}
+
+#title{
+    text-align: center;    
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
